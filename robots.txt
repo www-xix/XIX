@@ -1,0 +1,5 @@
+# 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www-xix.github.io/XIX/Sitemaps.xml
